@@ -5,7 +5,8 @@
   By | 
   <a href="https://github.com/requaresma">Renata Quaresma</a>
   <br><br>
-  <img src="https://img.shields.io/badge/Status-Always%20Evolving-blue">
+  <a href="https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" rel="nofollow">
+<img src="https://img.shields.io/badge/Status-Always Evolving-blue";link=https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" style="max-width:100%;"></a>
   </p>
   
  
