@@ -1,4 +1,4 @@
-<img src="https://github.com/requaresma/Frontend-Pathway/blob/master/Front-end_Path.png" width="100%"/>
+<img src="https://github.com/requaresma/Frontend-project-based/blob/master/cover-Front-end-SL.png" width="100%"/>
 
 <p align="center">
   <b> Front-end Pathway</b><br>
@@ -12,10 +12,10 @@
  
 ## About
 
-This repository contains a summary of all my study projects and other information in relation to my evolution.
-With a high emphasis on front-end development, I'll work on a few JavaScript-based Web/Mobile projects, with a pinch of UI-UX design.<br>
+This repository contains a summary of all my study projects and other information in relation to my evolution as a front-end developer. The learning journey never ends and collecting small victories is a great way to keep motivation strong.
+<br>
 <br> 
-> *"It's always a good time to take your skills to the next level"*. This sentence is my philosophy and I want to improve my coding skills all the time. I believe that take mini-projects is a good way to consistently improve your abilities and push yourself to the next level. That's why I love this pathway.
+> *"It's always a good time to take your skills to the next level"*. This sentence is my philosophy and I want to improve my coding skills all the time. I believe that take mini-projects is a good way to consistently improve abilities and push yourself to the next level. That's why I love learning by doing.
 Besides that, **I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too** 🤩.<br><br>
 
 ### Would you like to see my progress?
