@@ -5,7 +5,7 @@
   By | 
   <a href="https://github.com/requaresma">Renata Quaresma</a>
   <br><br>
-  <img src="https://img.shields.io/badge/Status-In Progress-blue">
+  <img src="https://img.shields.io/badge/Status-Always%20Evolving-blue">
   </p>
   
  
