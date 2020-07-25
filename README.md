@@ -15,7 +15,8 @@ This repository contains a summary of all my study projects and other informatio
 With a high emphasis on front-end development, I'll work on a few JavaScript-based Web/Mobile projects, with a pinch of UI-UX design.<br>
 <br> 
 > Design is my passion, coding is my superpower. My main goal is to create unique solutions joining both skills.<br><br>
-***Would you like to see my progress?***<br>
+
+### Would you like to see my progress?
 Please, [check out the links below ⬇](https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress) 
 
 
