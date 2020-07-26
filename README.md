@@ -1,7 +1,7 @@
-<img src="https://github.com/requaresma/Frontend-project-based/blob/master/cover-Front-end-SL.png" width="100%"/>
+<img src="https://github.com/requaresma/Frontend-mini-projects/blob/master/cover-fr.png" width="100%"/>
 
 <p align="center">
-  <b> Front-end Pathway</b><br>
+  <b> Front-end Mini Projects</b><br>
   By | 
   <a href="https://github.com/requaresma">Renata Quaresma</a>
   <br><br>
