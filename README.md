@@ -10,7 +10,7 @@
   </p>
   
  
-## About
+# 👋 Welcome to my Front-end Lab! 👩‍🔬🖥 </>
 
 This repository contains a summary of all my study projects and other information in relation to my evolution as a front-end developer. The learning journey never ends and collecting small victories is a great way to keep motivation strong.
 <br>
