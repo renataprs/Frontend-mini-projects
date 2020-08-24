@@ -18,15 +18,12 @@ This repository contains a summary of all my study projects and other informatio
 > *"It's always a good time to take your skills to the next level"*. This quote is my philosophy and I want to improve my coding skills all the time. I believe that take mini-projects is a good way to consistently improve abilities and push yourself to the next level. That's why I love learning by doing.
 Besides that, **I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too** 🤩.<br><br>
 
-### Would you like to see my progress?
-Please, [check out the links below ⬇](https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress) 
-
-
 ## Technologies and concepts explored 🚀
 > HTML | CSS | Vanila JavaScript | React.js | and counting...
 ### 💬 You might also like to see [CSS Mini-Projects](https://github.com/requaresma/CSS-Mini-Projects)
 ---
-
+### Would you like to see my progress?
+Please, [check out the links below ⬇](https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress) 
 
 ## Log of my progress📈
 ---
