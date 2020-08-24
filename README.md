@@ -10,10 +10,10 @@
   </p>
   
  
-# 👋 Welcome to my Front-end Lab! 👩‍🔬🖥 </>
+# 👋 Welcome to my Front-end Notebook! 👩‍🔬🖥 </>
 Yeah! I'm always conducting experiments during my learning journey. So, this repository is like a lab notebook.<br>
 
-This repository contains a summary of all my study projects and other information in relation to my evolution as a front-end developer. The learning journey never ends and collecting small victories is a great way to keep motivation strong.
+It contains a summary of all my study projects and other information in relation to my evolution as a front-end developer. The learning journey never ends and collecting small victories is a great way to keep motivation strong.
 <br>
 <br> 
 > *"It's always a good time to take your skills to the next level"*. This quote is my philosophy and I want to improve my coding skills all the time. I believe that take mini-projects is a good way to consistently improve abilities and push yourself to the next level. That's why I love learning by doing.
