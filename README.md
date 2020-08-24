@@ -24,8 +24,9 @@ Please, [check out the links below ⬇](https://github.com/requaresma/Frontend-P
 
 ## Technologies and concepts explored 🚀
 > HTML | CSS | Vanila JavaScript | React.js | and counting...
+### 💬 You might also like to see CSS Mini-Projects
 ---
-## 💬 You might also like to see CSS Mini-Projects
+
 
 ## Log of my progress📈
 ---
