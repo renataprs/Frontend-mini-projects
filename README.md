@@ -11,6 +11,7 @@
   
  
 # 👋 Welcome to my Front-end Lab! 👩‍🔬🖥 </>
+Yeah! I'm always conducting experiments during my learning journey. So, this repository is like a lab notebook.<br>
 
 This repository contains a summary of all my study projects and other information in relation to my evolution as a front-end developer. The learning journey never ends and collecting small victories is a great way to keep motivation strong.
 <br>
@@ -22,8 +23,6 @@ Besides that, **I love to share my knowledge with others, then I hope this repos
 > HTML | CSS | Vanila JavaScript | React.js | and counting...
 ### 💬 You might also like to see [CSS Mini-Projects](https://github.com/requaresma/CSS-Mini-Projects)
 ---
-### Would you like to see my progress?
-Please, [check out the links below ⬇](https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress) 
 
 ## Log of my progress📈
 ---
