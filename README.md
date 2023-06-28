@@ -45,10 +45,8 @@ Please feel free to contact me: <br>
 <a href="https://www.instagram.com/requaresma/" rel="nofollow">
 <img src="https://img.shields.io/badge/-Instagram-%23c837ac?style=flat&logo=instagram&logoColor=white";link=https://www.instagram.com/re.natapires/" style="max-width:100%;"></a>
 
-<a href="mailto:requaresma@gmail.com" rel="nofollow">
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white);link=mailto:requaresma@gmail.com" style="max-width:100%;"></a>
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  
 <a href="mailto:requaresma@gmail.com" rel="nofollow">
 <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white";link=mailto:requaresma@gmail.com" style="max-width:100%;"></a>
 
- ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
