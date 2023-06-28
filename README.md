@@ -39,7 +39,7 @@ Jun 28, 2023|Jun 28, 2023|Homepage|HTML, CSS|Newbie|View Project|---|video
 ## Let's connect!🤝
 Please feel free to contact me: <br>
 
-<a href="https://www.linkedin.com/in/requaresma/" rel="nofollow">
+<a href="https://www.linkedin.com/in/renataprs/" rel="nofollow">
 <img src="https://img.shields.io/badge/-Linkedin-%233077b5?style=flat&logo=linkedin";link=https://www.linkedin.com/in/renataprs/" style="max-width:100%;"></a>
 
 <a href="https://www.instagram.com/requaresma/" rel="nofollow">
