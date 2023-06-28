@@ -26,9 +26,9 @@ Besides that, **I love to share my knowledge with others, then I hope this repos
 
 ## Log of my progress📈
 ---
-Start Date | End Date| Project |Technologies|Difficulty|URL|Notes |Additional resources
-------------| ---------|--------|-----------|----------|----|------|----------------
-Jun 28, 2023|Jun 28, 2023|Homepage|HTML, CSS|Newbie|View Project|---|video
+Project |Technologies|Difficulty|:octocat: Code|Notes |Additional resources
+--------|-----------|----------|----|------|----------------
+Homepage Flutuar |HTML, CSS|Newbie|View Project|---|--
 
 
 
@@ -45,7 +45,7 @@ Please feel free to contact me: <br>
 <a href="https://www.instagram.com/requaresma/" rel="nofollow">
 <img src="https://img.shields.io/badge/-Instagram-%23c837ac?style=flat&logo=instagram&logoColor=white";link=https://www.instagram.com/re.natapires/" style="max-width:100%;"></a>
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white;link=https://www.linkedin.com/in/renataprs/")
  
 <a href="mailto:requaresma@gmail.com" rel="nofollow">
 <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white";link=mailto:requaresma@gmail.com" style="max-width:100%;"></a>
