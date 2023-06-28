@@ -48,5 +48,5 @@ Please feel free to contact me: <br>
 <a href="mailto:requaresma@gmail.com" rel="nofollow">
 <img src="[BadgeURLAqui](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  
