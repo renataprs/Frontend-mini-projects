@@ -27,7 +27,7 @@ Besides that, **I love to share my knowledge with others, then I hope this repos
 ## Log of my progress📈
 ---
 Project |Technologies|:octocat: Code|Notes |Additional resources
---------|-----------|----------|----|------|----------------
+--------|------------|--------------|------|--------------------
 Homepage Flutuar |HTML, CSS|View Project|---|--
 
 
