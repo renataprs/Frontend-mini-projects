@@ -11,12 +11,12 @@
   
  
 # 👋 Welcome to my Front-end Notebook! 👩‍🔬🖥 </>
-A fun fact about me is that I almost became a scientist! 👩‍🔬 <br>
-Life led me down different paths, but I still enjoy conducting experiments occasionally...<br>
+A fun fact about me is that I almost became a scientist! 👩‍🔬 <br><br>
+Life led me down different paths, but I still enjoy conducting experiments occasionally...<br><br>
 This repository is like my lab notebook. It contains a summary of my main study projects and other information related to my evolution as a front-end developer.
 <br>
 <br> 
-> *"There will always be the next level, so #NeverStopLearning".
+> *"There will always be the next level, so #NeverStopLearning"*.
 **I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too** 🤩.<br><br>
 
 ## Technologies and concepts explored 🚀
@@ -28,7 +28,7 @@ This repository is like my lab notebook. It contains a summary of my main study 
 ---
 Project |Technologies|:octocat: Code|Notes |Additional resources
 --------|------------|--------------|------|--------------------
-Homepage Flutuar |HTML, CSS|View Project|---|--
+Homepage Flutuar |HTML, CSS|[View Project](https://github.com/renataprs/flutuar)|---|--
 
 
 
