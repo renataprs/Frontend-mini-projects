@@ -3,7 +3,7 @@
 <p align="center">
   <b> Side Projects</b><br>
   By | 
-  <a href="https://github.com/renataprs" target="_blank">Renata Pires</a>
+  <a href="https://github.com/renataprs" target="_blank" rel="noopener">Renata Pires</a>
   <br><br>
   <a href="https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" rel="nofollow">
 <img src="https://img.shields.io/badge/Status-Always Evolving-blue";link=https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" style="max-width:100%;"></a>
