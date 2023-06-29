@@ -19,7 +19,7 @@ A fun fact about me is that I almost became a scientist! 👩‍🔬 Life led me
 <br>
 💡 *I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too*.<br><br>
 
-## Technologies and concepts explored 🚀
+## Technologies and concepts explored 🔎
 > [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) and counting...
 
 ---
@@ -39,7 +39,6 @@ Homepage Flutuar |HTML, CSS|[View Project](https://github.com/renataprs/flutuar)
 ## Let's connect!🤝
 Please feel free to connect with me: <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@renataprs)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renataprs)
 
 
