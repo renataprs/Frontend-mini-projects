@@ -37,14 +37,9 @@ Homepage Flutuar |HTML, CSS|[View Project](https://github.com/renataprs/flutuar)
 
 
 ## Let's connect!🤝
-Please feel free to contact me: <br><be>
+Please feel free to contact me: <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@renataprs)
 
-<a href="https://www.linkedin.com/in/renataprs/" rel="nofollow">
-<img src="https://img.shields.io/badge/-Linkedin-%233077b5?style=flat&logo=linkedin";link=https://www.linkedin.com/in/renataprs/" style="max-width:100%;"></a>
 
-<a href="https://www.instagram.com/re.natapires/" rel="nofollow">
-<img src="https://img.shields.io/badge/-Instagram-%23c837ac?style=flat&logo=instagram&logoColor=white";link=https://www.instagram.com/re.natapires/" style="max-width:100%;"></a>
 
-<a href="mailto:requaresma@gmail.com" rel="nofollow">
-<img src="https://img.shields.io/badge/-quaresmarp%40gmail.com-%23d44c3d?style=flat&logo=gmail&logoColor=white";link=mailto:quaresmarp@gmail.com" style="max-width:100%;"></a>
