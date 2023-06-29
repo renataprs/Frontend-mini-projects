@@ -37,8 +37,8 @@ Homepage Flutuar |HTML, CSS|[View Project](https://github.com/renataprs/flutuar)
 
 
 ## Let's connect!🤝
-Please feel free to contact me: <br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Please feel free to contact me: <br><be>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renataprs/)
 
 <a href="https://www.linkedin.com/in/renataprs/" rel="nofollow">
 <img src="https://img.shields.io/badge/-Linkedin-%233077b5?style=flat&logo=linkedin";link=https://www.linkedin.com/in/renataprs/" style="max-width:100%;"></a>
