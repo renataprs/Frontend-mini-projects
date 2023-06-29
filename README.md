@@ -11,17 +11,17 @@
   
  
 # 👋 Welcome to my Front-end Notebook! 👩‍🔬🖥 </>
-Yeah! I'm always conducting experiments during my learning journey. So, this repository is like a lab notebook.<br>
-
-It contains a summary of all my study projects and other information in relation to my evolution as a front-end developer. The learning journey never ends and collecting small victories is a great way to keep motivation strong.
+A fun fact about me is that I almost became a scientist! 👩‍🔬 <br>
+Life led me down different paths, but I still enjoy conducting experiments occasionally...<br>
+This repository is like my lab notebook. It contains a summary of my main study projects and other information related to my evolution as a front-end developer.
 <br>
 <br> 
-> *"It's always a good time to take your skills to the next level"*. This quote is my philosophy and I want to improve my coding skills all the time. I believe that take mini-projects is a good way to consistently improve abilities and push yourself to the next level. That's why I love learning by doing.
-Besides that, **I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too** 🤩.<br><br>
+> *"There will always be the next level, so #NeverStopLearning".
+**I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too** 🤩.<br><br>
 
 ## Technologies and concepts explored 🚀
-> HTML | CSS | Vanila JavaScript | React.js | and counting...
-### 💬 You might also like to see [CSS Mini-Projects](https://github.com/requaresma/CSS-Mini-Projects)
+> HTML | CSS | JavaScript | React.js | and counting...
+
 ---
 
 ## Log of my progress📈
