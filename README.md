@@ -1,9 +1,9 @@
-<img src="https://github.com/requaresma/Frontend-mini-projects/blob/master/cover-fr.png" width="100%"/>
+<img src="https://github.com/renataprs/Frontend-mini-projects/blob/master/cover-fr.png" width="100%"/>
 
 <p align="center">
   <b> Front-end Mini Projects</b><br>
   By | 
-  <a href="https://github.com/requaresma">Renata Quaresma</a>
+  <a href="https://github.com/renataprs">Renata Pires</a>
   <br><br>
   <a href="https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" rel="nofollow">
 <img src="https://img.shields.io/badge/Status-Always Evolving-blue";link=https://github.com/requaresma/Frontend-Pathway/blob/master/README.md#log-of-my-progress" style="max-width:100%;"></a>
@@ -26,7 +26,7 @@ This repository is like my lab notebook. It contains a summary of my main study 
 
 ## Log of my progress📈
 ---
-Project |Technologies|:octocat: Code|Notes |Additional resources
+🖥 Project |Technologies|:octocat: Code|Notes |Additional resources
 --------|------------|--------------|------|--------------------
 Homepage Flutuar |HTML, CSS|[View Project](https://github.com/renataprs/flutuar)|---|--
 
