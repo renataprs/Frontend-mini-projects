@@ -1,4 +1,4 @@
-<img src="https://github.com/renataprs/Frontend-mini-projects/blob/master/cover-fr.png" width="100%"/>
+<img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <p align="center">
   <b> Side Projects</b><br>
