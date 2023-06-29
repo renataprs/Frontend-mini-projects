@@ -12,12 +12,12 @@
  
 # 👋 Welcome to my Front-end Notebook! 👩‍🔬🖥 </>
 A fun fact about me is that I almost became a scientist! 👩‍🔬 Life led me down different paths, but I still enjoy conducting experiments occasionally...<br><br>
-This repository is like my lab notebook. It contains a summary of my main study projects and other information related to my evolution as a front-end developer.
+📒 This repository is like my lab notebook. It contains a summary of my main study projects and other information related to my evolution as a front-end developer.
 <br>
 <br> 
 > *"There will always be the next level, so #NeverStopLearning"*.
 <br>
-**I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too** 🤩.<br><br>
+💡 *I love to share my knowledge with others, then I hope this repository can be useful and inspire someone to reach their next level too*.<br><br>
 
 ## Technologies and concepts explored 🚀
 > HTML | CSS | JavaScript | React.js | and counting...
