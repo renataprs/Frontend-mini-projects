@@ -28,7 +28,7 @@ A fun fact about me is that I almost became a scientist! 👩‍🔬 Life led me
 ---
 🖥 Project |:octocat: Code|Technologies|Notes 
 -----------|------------|--------------|------
-Homepage Flutuar |[source code](https://github.com/renataprs/flutuar){:target="_blank" rel="noopener"}|HTML, CSS|---
+Homepage Flutuar |[source code](https://github.com/renataprs/flutuar{:target="_blank" rel="noopener"})|HTML, CSS|---
 
 
 
