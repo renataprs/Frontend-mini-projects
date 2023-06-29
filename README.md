@@ -1,7 +1,7 @@
 <img src="https://github.com/renataprs/Frontend-mini-projects/blob/master/cover-fr.png" width="100%"/>
 
 <p align="center">
-  <b> Front-end Mini Projects</b><br>
+  <b> Mini Projects</b><br>
   By | 
   <a href="https://github.com/renataprs">Renata Pires</a>
   <br><br>
@@ -10,9 +10,9 @@
   </p>
   
  
-# 👋 Welcome to my Front-end Notebook! 👩‍🔬🖥 </>
-A fun fact about me is that I almost became a scientist! 👩‍🔬 Life led me down different paths, but I still enjoy conducting experiments occasionally...<br><br>
-📒 This repository is like my lab notebook. It contains a summary of my main study projects and other information related to my evolution as a front-end developer.
+# 👋 Welcome to my CodeLab Notebook! 👩‍🔬🖥 </>
+A fun fact about me is that I almost became a scientist! 👩‍🔬 Life led me down different paths, but I still enjoy conducting experiments occasionally...But now, instead of test tubes, I use VS Code!<br><br>
+📒 This repository is like my lab notebook. It contains a summary of my main study projects and other information related to my evolution as a developer.
 <br>
 <br> 
 > *"There will always be the next level, so #NeverStopLearning"*.
