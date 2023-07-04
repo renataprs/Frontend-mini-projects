@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
  </p>
 <p align="center">
-<i> "There will always be the next level, so #NeverStopLearning".</i>
+<strong> <i> "There will always be the next level, so #NeverStopLearning".</i></strong>
 </p>
 
 📒 This repository is like a special lab notebook, housing my study projects and showcasing my growth as a developer.
