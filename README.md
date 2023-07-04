@@ -24,7 +24,7 @@
 *In this repository, I document my studies and showcase my growth as a developer.*
 
 > 💡 Want to know more about my work experience? **Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!** <br>
-> 🔍 You may also like to see my **[Portfolio](#)**
+> 🔍 You may also like to see my **[Portfolio Website](#)**
 
 
 I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
