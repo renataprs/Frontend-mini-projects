@@ -1,7 +1,7 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h1 align="center">
- 👋 Welcome to my repository of Study Projects! 👩‍🔬🖥
+ 👋 Welcome to my repository of Side Projects! 👩‍🔬🖥
 </h1>
 
 <!-- Badges -->
