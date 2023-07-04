@@ -1,7 +1,7 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h1 align="center">
- 👋 Welcome to my repository of study projects! 👩‍🔬🖥
+ 👋 Welcome to my repository of Study Projects! 👩‍🔬🖥
 </h1>
 
 <!-- Badges -->
@@ -11,6 +11,7 @@
  <img src="https://img.shields.io/badge/Linkedin%20Profile-405DE6?style=for-the-badge&logo=linkedin"></a>
 </p>
 
+<!-- index -->
 <p align="center">
   <a href="#-About">About</a> •
   <a href="#-Projects">Projects</a>
