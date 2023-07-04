@@ -28,7 +28,7 @@ This repository is like a special lab notebook, where I document my studies and 
 Life led me down different paths, but I still enjoy conducting experiments occasionally. But now, instead of test tubes, I use VS Code!
 <br>
 
-I love to share my knowledge with others, then I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
+I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
 <br>
 <br>
 
