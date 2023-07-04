@@ -12,14 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="#-Projects">Projects</a> •
-  <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
+  <a href="#-About">About</a> •
+  <a href="#-Projects">Projects</a>
  </p>
 <p align="center">
 <strong> <i> "There will always be the next level, so #NeverStopLearning".</i></strong>
 </p>
-<br>
-📒 This repository is like a special lab notebook, where I document my study projects and showcase my growth as a developer.
+
+## 📒 About
+This repository is like a special lab notebook, where I document my study projects and showcase my growth as a developer.
 <br>
 <br> 
 
