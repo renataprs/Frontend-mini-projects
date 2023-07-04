@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
  </p>
 <p align="center">
-<i> "There will always be the next level, so #NeverStopLearning" </i>.
+<i> "There will always be the next level, so #NeverStopLearning".</i>
 </p>
 
 📒 This repository is like a special lab notebook, housing my study projects and showcasing my growth as a developer.
@@ -24,7 +24,8 @@ Life led me down different paths, but I still enjoy conducting experiments occas
 I use VS Code!
 <br>
 
-I love to share my knowledge with others, then I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ <br>
+*I love to share my knowledge with others, then I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding!* ✨ 
+<br>
 <br>
 
 ## 📂 Projects
