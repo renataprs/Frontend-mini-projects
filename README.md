@@ -31,7 +31,7 @@ I hope you find something here that sparks your interest and inspires you. Feel 
 <br>
 <br>
 ## 📂 Projects
----
+
 ⌛ Last updated|🖥 Project |:octocat: Code|Technologies|Notes 
 -----------|-----------|------------|--------------|------
 Date|Project Name |[source code](#)|Stack|---
