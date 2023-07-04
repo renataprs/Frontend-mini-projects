@@ -4,6 +4,11 @@
  👋 Welcome to my Side Projects Repository! 👩‍🔬🖥
 </h1>
 
+ <p align="center">
+ <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%2310B9BD"></a>
+<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
+</p>
+
 <p align="center">
   <a href="#-Projects">Projects</a> •
   <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
