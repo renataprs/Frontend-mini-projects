@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/Linkedin%20Profile-405DE6?style=for-the-badge&logo=linkedin"></a>
 </p>
 
-<!-- index -->
+<!-- Menu -->
 <p align="center">
   <a href="#-About">About</a> •
   <a href="#-Projects">Projects</a>
