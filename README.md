@@ -16,7 +16,7 @@
 <p align="center">
 <strong> <i> "There will always be the next level, so #NeverStopLearning".</i></strong>
 </p>
-___
+<br>
 📒 This repository is like a special lab notebook, housing my study projects and showcasing my growth as a developer.
 <br><br> 
 > A fun fact about me is that I almost became a scientist! 👩‍🔬 <br> 
