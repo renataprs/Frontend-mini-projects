@@ -6,7 +6,7 @@
 
 <!-- Badges -->
  <p align="center">
- <a href="https://github.com/renataprs"><img src="https://img.shields.io/badge/Author-Renata%20Pires-586BB0?style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/renataprs"><img src="https://img.shields.io/badge/By-Renata%20Pires-586BB0?style=for-the-badge&logo=github"></a>
  <a href="https://www.linkedin.com/in/renataprs/" target="_blank">
  <img src="https://img.shields.io/badge/Linkedin%20Profile-405DE6?style=for-the-badge&logo=linkedin"></a>
 </p>
@@ -28,7 +28,7 @@ This repository is like a special lab notebook, where I document my study projec
 Life led me down different paths, but I still enjoy conducting experiments occasionally. But now, instead of test tubes, I use VS Code!
 <br>
 
-*I love to share my knowledge with others, then I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding!* ✨ 
+I love to share my knowledge with others, then I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
 <br>
 <br>
 
