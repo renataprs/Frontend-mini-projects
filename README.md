@@ -20,7 +20,7 @@
 </p>
 
 ## 📒 About
-This repository is like a special lab notebook, where I document my study projects and showcase my growth as a developer.
+This repository is like a special lab notebook, where I document my studies and showcase my growth as a developer.
 <br>
 <br> 
 
