@@ -25,11 +25,10 @@ This repository is like a special lab notebook, where I document my studies and 
 
 > A fun fact about me is that I almost became a scientist! 👩‍🔬 <br> 
 Life led me down different paths, but I still enjoy conducting experiments occasionally. But now, instead of test tubes, I use VS Code!
-<br>
 
 I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
 <br>
-
+<br>
 ## 📂 Projects
 ---
 ⌛ Last updated|🖥 Project |:octocat: Code|Technologies|Notes 
