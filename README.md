@@ -1,12 +1,12 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h1 align="center">
- 👋 Welcome to my Repository of Side Projects! 👩‍🔬🖥
+ 👋 Welcome to my repository of side Projects! 👩‍🔬🖥
 </h1>
 
+<!-- Badges -->
  <p align="center">
- <a href="https://github.com/renataprs" target="_blank">
-  <img src="https://img.shields.io/badge/Author-Renata%20Pires-586BB0?style=for-the-badge&logo=electron-builder"></a>
+ <a href="https://github.com/renataprs"><img src="https://img.shields.io/badge/Author-Renata%20Pires-586BB0?style=for-the-badge&logo=github"></a>
  <a href="https://www.linkedin.com/in/renataprs/" target="_blank">
  <img src="https://img.shields.io/badge/Linkedin%20Profile-405DE6?style=for-the-badge&logo=linkedin"></a>
 </p>
