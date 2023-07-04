@@ -13,8 +13,8 @@
   <a href="#-Projects">Projects</a> •
   <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
  </p>
-<p align="center">
-> *"There will always be the next level, so #NeverStopLearning"*.
+> <p align="center">
+<i> "There will always be the next level, so #NeverStopLearning"</i>i>.
 </p>
 
 📒 This repository is like a special lab notebook, housing my study projects and showcasing my growth as a developer.
