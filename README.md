@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/renataprs" target="_blank">By Renata Pires</a> •
   <a href="#-Projects">Projects</a> •
   <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
  </p>
+---
  
 📒 This repository is like a special lab notebook, housing my study projects and showcasing my growth as a developer.
 <br>
