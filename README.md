@@ -21,11 +21,11 @@
 </p>
 
 ## 📒 About
-This repository is like a special lab notebook, where I document my studies and showcase my growth as a developer.
-<br>
+*In this repository, I document my studies and showcase my growth as a developer.*
 
-> A fun fact about me is that I almost became a scientist! 👩‍🔬 <br> 
-Life led me down different paths, but I still enjoy conducting experiments occasionally. But now, instead of test tubes, I use VS Code!
+> 💡 Want to know more about my work experience? **Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!** <br>
+> 🔍 You may also like to see my **[Portfolio](#)**
+
 
 I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
 <br>
