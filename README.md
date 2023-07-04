@@ -21,15 +21,16 @@
 </p>
 
 ## 📒 About
-*In this repository, I document my studies and showcase my growth as a developer.*
+*In this repository, I document my personal projects created for study purposes and to further my growth as a developer.* <br><br>
 
 > 💡 Want to know more about my work experience? **Let's connect on [LinkedIn](https://www.linkedin.com/in/renataprs/)!** <br>
 > 🔍 You may also like to see my **[Portfolio Website](#)**
 
-
+<br>
 I hope you find something here that sparks your interest and inspires you. Feel free to provide feedback or collaborate with me on any ideas. Happy coding! ✨ 
 <br>
 <br>
+
 ## 📂 Projects
 
 ⌛ Last updated|🖥 Project |:octocat: Code|Technologies|Notes 
