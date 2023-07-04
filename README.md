@@ -1,12 +1,14 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h1 align="center">
- 👋 Welcome to my Side Projects Repository! 👩‍🔬🖥
+ 👋 Welcome to my Repository of Side Projects! 👩‍🔬🖥
 </h1>
 
  <p align="center">
- <a href="https://github.com/renataprs" target="_blank"><img src="https://img.shields.io/badge/By-Renata%20Pires-%2310B9BD"></a>
-<a href="#" rel="nofollow"> <img src="https://img.shields.io/badge/Status-Always%20evolving-%237E57D7" style="max-width:100%;"></a>
+ <a href="https://github.com/renataprs" target="_blank">
+  <img src="https://img.shields.io/badge/Author-Renata%20Pires-586BB0?style=for-the-badge&logo=electron-builder"></a>
+ <a href="https://www.linkedin.com/in/renataprs/" target="_blank">
+ <img src="https://img.shields.io/badge/Linkedin%20Profile-405DE6?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <p align="center">
