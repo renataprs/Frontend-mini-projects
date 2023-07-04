@@ -1,13 +1,15 @@
 <img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
 
 <h1 align="center">
- 👋 Welcome to my Side Projects Repository! 👩‍🔬🖥 </>
+ 👋 Welcome to my Side Projects Repository! 👩‍🔬🖥
 </h1>
 
 <p align="center">
-  <b> Side Projects</b><br>
-  By | 
-  <a href="https://github.com/renataprs" target="_blank">Renata Pires</a>
+ By | <a href="https://github.com/renataprs" target="_blank">Renata Pires</a> •
+  <a href="#-This repository">About</a> •
+  <a href="#-Projects">Projects</a> •
+  <a href="https://www.linkedin.com/in/renataprs/" target="_blank">Linkedin ⬈</a>
+ </p>
 </p>
   
  
