@@ -11,7 +11,7 @@
 
  
 📒 This repository is like a special lab notebook, housing my study projects and showcasing my growth as a developer.
-<br>
+<br><br> 
 A fun fact about me is that I almost became a scientist! 👩‍🔬 <br> 
 Life led me down different paths, but I still enjoy conducting experiments occasionally...But now, instead of test tubes, I use VS Code!<br><br>
 > *"There will always be the next level, so #NeverStopLearning"*.
