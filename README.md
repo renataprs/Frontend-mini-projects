@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/1vI2q5z.png" width="100%"/>
+<img src="https://i.imgur.com/lOBqe5m.png" width="100%"/>
 
 <h1 align="center">
  👋 Welcome to my repository! 👩‍🔬🖥
