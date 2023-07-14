@@ -1,4 +1,4 @@
-<img src="https://github.com/renataprs/Side-Projects/blob/master/cover.png" width="100%"/>
+<img src="https://i.imgur.com/1vI2q5z.png" width="100%"/>
 
 <h1 align="center">
  👋 Welcome to my repository of Side Projects! 👩‍🔬🖥
