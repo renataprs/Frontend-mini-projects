@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/1vI2q5z.png" width="100%"/>
 
 <h1 align="center">
- 👋 Welcome to my repository of Side Projects! 👩‍🔬🖥
+ 👋 Welcome to my repository! 👩‍🔬🖥
 </h1>
 
 <!-- Badges -->
