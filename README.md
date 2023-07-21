@@ -33,7 +33,7 @@ I hope you find something here that sparks your interest and inspires you. Feel 
 
 💡 Project |Technologies|:octocat: Code|🖥 Demo 
 -----------|------------|--------------|------
-|Fortune teller game|HTML, CSS, Javascript|[source code](https://github.com/renataprs/fortune-teller-game)|[Live Project](https://renataprs.github.io/fortune-teller-game/)
+|Fortune teller game|HTML, CSS, Javascript|[source code](https://renataprs.github.io/fortune-teller-game/)|[Live Project](https://renataprs.github.io/fortune-teller-game/)
 
 
 
